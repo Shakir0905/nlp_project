@@ -97,15 +97,6 @@ curl -X POST "http://127.0.0.1:8000/generate-answer/" -H "Content-Type: applicat
 
 The screenshot `project_screen.png` demonstrates the running Elasticsearch and FastAPI servers, as well as the output of the test script, confirming the functionality of the service.
 
-## Development
-
-Additional information for developers on how to contribute to the project
-ramazanovshakir9@gmail.com
-
-## License
-
-This README provides comprehensive instructions for setting up, using, and testing your web service, along with guidelines for other developers or users to contribute to the project.
-
 ## Authors
 
 - **Ramazanov Shakir** - *Initial work* - [ramazanovshakir9@gmail.com](mailto:ramazanovshakir9@gmail.com)
