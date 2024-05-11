@@ -37,8 +37,8 @@ This project is a HTTP REST service developed using FastAPI and connected to Ela
 
 1. Clone the project repository:
    ```bash
-   git clone https://your-repository-link.git
-   cd your-project-directory
+   git clone https://github.com/Shakir0905/nlp_project.git
+   cd nlp_project
    ```
 
 2. Create and activate a virtual environment:
